@@ -3,8 +3,11 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%20-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/behzadabbasi88)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/behzad88/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%20-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:behzad88.2012@gmail.com)
+### I'm Behzad, a frontend developer expert with a focus on fast-moving technologies with 12 years of experience and this is my character.
 
-### I'm Behzad, a frontend developer expert with a focus on fast-moving technologies with 12 years of experience in the Software engineering industry who loves contributing to building beautiful, challenging, and efficient websites and web applications using React mostly.
+#### When working in a team, I'm quite assertive, occasionally group-oriented, and trusting. In a work environment, I'm rather imaginative and indifferent to change. Socially, I am characterized as enthusiastic and measured in social boldness. With other people, I tend to be occasionally forthright and rather warm. As a personality, I'm confident only some of the time and mostly objective. I'm occasionally reactive and usually high-energy but mostly follow rules.
+
+### My strongest skill is the ability to logically and rationally solve problems based on observed patterns.
 
 <br>
 <a href="https://github.com/behzad888">
