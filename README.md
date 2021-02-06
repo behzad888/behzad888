@@ -2,6 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%20-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/behzadabbasi88)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/behzad88/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-%20-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:behzad88.2012@gmail.com)
 
 ### I'm Behzad, a frontend developer expert with a focus on fast-moving technologies with 12 years of experience in the Software engineering industry who loves contributing to building beautiful, challenging, and efficient websites and web applications using React mostly.
 
@@ -53,7 +54,6 @@
 
 
 - ⚡ Fun fact: I'm a full-stack developer!
-- 📫 How to reach me: behzad88.2012@gmail.com
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
