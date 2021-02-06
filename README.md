@@ -55,8 +55,8 @@
 ![](https://img.shields.io/badge/PostreSQL-%20-black?style=flat&logo=postgresql&color=336791&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-%20-black?style=flat&logo=MongoDb&color=47A248&logoColor=white)
 
-![](https://img.shields.io/badge/Beginning%20Aurelia-%20-black?style=flat&logo=leanpub&color=FDFDFD&logoColor=white&link=https://leanpub.com/beginning-of-aurelia)
-![](https://img.shields.io/badge/Practical%20Aurelia-%20-black?style=flat&logo=leanpub&color=FDFDFD&logoColor=white&link=https://leanpub.com/practical-aurelia)
+[![Leanpub](https://img.shields.io/badge/Beginning%20Aurelia-%20-black?style=flat&logo=leanpub&color=FDFDFD&logoColor=white)](https://leanpub.com/beginning-of-aurelia)
+[![Leanpub](https://img.shields.io/badge/Practical%20Aurelia-%20-black?style=flat&logo=leanpub&color=FDFDFD&logoColor=white)](https://leanpub.com/practical-aurelia)
 
 - ⚡ Fun fact: I'm a full-stack developer!
 <!--
