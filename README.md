@@ -51,7 +51,7 @@
 ![](https://img.shields.io/badge/MongoDB-%20-black?style=flat&logo=MongoDb&color=47A248&logoColor=white)
 
 
-- ⚡ Fun fact: I'm a full-stack developer! Bazinga!
+- ⚡ Fun fact: I'm a full-stack developer!
 - 📫 How to reach me: behzad88.2012@gmail.com
 <!--
 - 🔭 I’m currently working on ...
