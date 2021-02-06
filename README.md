@@ -37,6 +37,7 @@
 ![](https://img.shields.io/badge/Testing%20Library-%20-black?style=flat&logo=testing-library&color=e33332&logoColor=white)
 ![](https://img.shields.io/badge/GraphQL-%20-black?style=flat&logo=graphql&color=e10098)
 ![](https://img.shields.io/badge/Firebase-%20-black?style=flat&logo=firebase&color=ffca28&logoColor=white)
+![](https://img.shields.io/badge/AWS%20Amplify-%20-black?style=flat&logo=aws-amplify&color=23FF99&logoColor=white)
 
 ![](https://img.shields.io/badge/CSS-%20-black?style=flat&logo=css3&color=1572b6)
 ![](https://img.shields.io/badge/Sass-%20-black?style=flat&logo=sass&color=cc6699&logoColor=white)
