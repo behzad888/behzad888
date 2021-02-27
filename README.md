@@ -11,7 +11,7 @@
 
 <br>
 <a href="https://github.com/behzad888">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=behzad888&hide=stars&show_icons=true&theme=dark&time=now" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=behzad888&show_icons=true&theme=dark&time=now" />
 </a>
 <a href="https://github.com/behzad888">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behzad888&layout=compact&theme=dark" />
