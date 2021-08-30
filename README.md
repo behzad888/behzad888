@@ -38,9 +38,13 @@
 ![](https://img.shields.io/badge/Next-%20-black?style=flat&logo=next.js)
 ![](https://img.shields.io/badge/Gatsby-%20-black?style=flat&logo=gatsby&color=663399)
 ![](https://img.shields.io/badge/Angular-%20-black?style=flat&logo=Angular&color=DD0031)
+![](https://img.shields.io/badge/Aurelia-%20-black?style=flat&logo=aurelia&color=ED2B88)
 
 ![](https://img.shields.io/badge/Jest-%20-black?style=flat&logo=jest&color=c21325)
 ![](https://img.shields.io/badge/Testing%20Library-%20-black?style=flat&logo=testing-library&color=e33332&logoColor=white)
+![](https://img.shields.io/badge/cypress-%20-black?style=flat&logo=cypress&color=058a5e)
+
+![](https://img.shields.io/badge/REST-%20-black?style=flat&logo=.net&color=55a9ff)
 ![](https://img.shields.io/badge/GraphQL-%20-black?style=flat&logo=graphql&color=e10098)
 ![](https://img.shields.io/badge/Firebase-%20-black?style=flat&logo=firebase&color=ffca28&logoColor=white)
 ![](https://img.shields.io/badge/AWS-%20-black?style=flat&logo=amazon-aws&color=23FF99&logoColor=white)
