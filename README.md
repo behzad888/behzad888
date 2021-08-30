@@ -34,6 +34,7 @@
 ![](https://img.shields.io/badge/React-%20-blue?style=flat&logo=react&color=61dafb&logoColor=white)
 ![](https://img.shields.io/badge/Redux-%20-blue?style=flat&logo=redux&color=764abc)
 ![](https://img.shields.io/badge/Vue-%20-blue?style=flat&logo=vuedotjs&color=4fc08d)
+![](https://img.shields.io/badge/Vuex-%20-black?style=flat&logo=vuedotjs&color=764abc)
 ![](https://img.shields.io/badge/Next-%20-black?style=flat&logo=next.js)
 ![](https://img.shields.io/badge/Gatsby-%20-black?style=flat&logo=gatsby&color=663399)
 ![](https://img.shields.io/badge/Angular-%20-black?style=flat&logo=Angular&color=DD0031)
