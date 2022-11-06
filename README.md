@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%20-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/behzadabbasi88)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/behzad88/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%20-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:behzad88.2012@gmail.com)
-### I'm Behzad, Over the past 14 years as a sfotware engineer, I have designed, developed, and launched customized, highly responsive websites and web application solutions using advanced technologies, and this is my character.
+### I'm Behzad, Over the past 14 years as a software engineer, I have designed, developed, and launched customized, highly responsive websites and web application solutions using advanced technologies, and this is my character.
 
 #### When working in a team, I'm quite assertive, occasionally group-oriented, and trusting. In a work environment, I'm rather imaginative and indifferent to change. Socially, I am characterized as enthusiastic and measured in social boldness. With other people, I tend to be occasionally forthright and rather warm. As a personality, I'm confident only some of the time and mostly objective. I'm occasionally reactive and usually high-energy but mostly follow rules.
 
