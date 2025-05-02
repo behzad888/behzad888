@@ -1,6 +1,6 @@
 # Hey! ✨
 
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)]([#](https://twitter.com/behzadabbasi88))
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/behzadabbasi88)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/behzad88/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:behzad88.2012@gmail.com)
 ### I'm Behzad, Over the past 16 years as a software engineer, I have designed, developed, and launched customized, highly responsive websites and web application solutions using advanced technologies, and this is my character.
