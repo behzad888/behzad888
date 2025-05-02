@@ -43,6 +43,7 @@
 ![](https://img.shields.io/badge/Jest-%20-black?style=flat&logo=jest&color=c21325)
 ![](https://img.shields.io/badge/Testing%20Library-%20-black?style=flat&logo=testing-library&color=e33332&logoColor=white)
 ![](https://img.shields.io/badge/cypress-%20-black?style=flat&logo=cypress&color=058a5e)
+![](https://img.shields.io/badge/playwright-%20-black?style=flat&logo=playwright&color=058a5e)
 
 ![](https://img.shields.io/badge/REST-%20-black?style=flat&logo=.net&color=55a9ff)
 ![](https://img.shields.io/badge/GraphQL-%20-black?style=flat&logo=graphql&color=e10098)
